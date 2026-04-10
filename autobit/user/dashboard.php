@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/auth.php';
 requireAuth();
-$pageTitle = 'User Dashboard - Autobit.io';
+$pageTitle = 'User Dashboard - Autobit';
 include __DIR__ . '/../includes/header.php';
 ?>
 <section class="section">

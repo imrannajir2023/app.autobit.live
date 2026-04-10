@@ -2,7 +2,7 @@
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>
-      <h4>Autobit.io</h4>
+      <h4>Autobit</h4>
       <p>Automated AI-powered crypto trading interface demo.</p>
     </div>
     <div>
@@ -18,7 +18,7 @@
       <a href="/autobit/logout.php">Logout</a>
     </div>
   </div>
-  <p class="copyright">&copy; <?php echo date('Y'); ?> Autobit.io</p>
+  <p class="copyright">&copy; <?php echo date('Y'); ?> Autobit</p>
 </footer>
 </div>
 </body>

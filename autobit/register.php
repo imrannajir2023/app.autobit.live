@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Register - Autobit.io';
+$pageTitle = 'Register - Autobit';
 include __DIR__ . '/includes/header.php';
 ?>
 <section class="form-panel card">

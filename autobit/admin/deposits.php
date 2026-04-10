@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Admin Deposits - Autobit.io';
+$pageTitle = 'Admin Deposits - Autobit';
 include __DIR__ . '/../includes/header.php';
 ?>
 <section class="section">

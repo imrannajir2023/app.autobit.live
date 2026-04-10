@@ -1,7 +1,7 @@
 <?php
 require_once __DIR__ . '/../includes/auth.php';
 requireAuth();
-$pageTitle = 'Deposit - Autobit.io';
+$pageTitle = 'Deposit - Autobit';
 include __DIR__ . '/../includes/header.php';
 ?>
 <section class="form-panel card">

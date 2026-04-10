@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Home - Autobit.io';
+$pageTitle = 'Home - Autobit';
 include __DIR__ . '/includes/header.php';
 ?>
 
@@ -33,8 +33,8 @@ include __DIR__ . '/includes/header.php';
 
 <section id="about" class="section">
   <div class="container">
-    <h2>Why Autobit.io?</h2>
-    <p class="sub">Whether you’re a beginner or experienced trader, this layout mirrors autobit.io style and structure.</p>
+    <h2>Why Autobit?</h2>
+    <p class="sub">Whether you’re a beginner or experienced trader, this layout mirrors app.autobit.live style and structure.</p>
     <div class="feature-grid">
       <div class="card"><h3>100% Success Rate</h3><p class="sub">High-confidence automated AI strategy execution.</p></div>
       <div class="card"><h3>Real-Time Reporting</h3><p class="sub">Track trade performance instantly with transparent metrics.</p></div>

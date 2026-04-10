@@ -1,5 +1,5 @@
 <?php
-$pageTitle = 'Admin Dashboard - Autobit.io';
+$pageTitle = 'Admin Dashboard - Autobit';
 include __DIR__ . '/../includes/header.php';
 ?>
 <section class="section">

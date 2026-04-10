@@ -2,7 +2,7 @@
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
-$pageTitle = $pageTitle ?? 'AutoBit';
+$pageTitle = $pageTitle ?? 'Autobit';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -16,7 +16,7 @@ $pageTitle = $pageTitle ?? 'AutoBit';
 <div class="site-wrap">
 <header class="site-header">
   <div class="container nav-row">
-    <a class="brand" href="/autobit/index.php">Autobit<span>.io</span></a>
+    <a class="brand" href="/autobit/index.php">Autobit<span>app.autobit.live</span></a>
     <nav class="nav-links">
       <a href="/autobit/index.php">Home</a>
       <a href="/autobit/user/dashboard.php">Trades</a>
