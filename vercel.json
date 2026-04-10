@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "autobit/**/*.php", "use": "vercel-php@0.7.3" },
+    { "src": "index.php", "use": "vercel-php@0.7.3" }
+  ],
+  "routes": [
+    { "src": "^/$", "dest": "/index.php" },
+    { "src": "^/autobit/(.*)$", "dest": "/autobit/$1" },
+    { "src": "^/(.*)$", "dest": "/autobit/$1" }
+  ]
+}
